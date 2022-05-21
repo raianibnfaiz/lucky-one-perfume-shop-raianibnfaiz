@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "brand": "Adidas",
+        "price": "350 $",
+        "image": "https://cdn.shopify.com/s/files/1/0469/0522/9471/products/15026.jpg?v=1618760549"
+    },
+    {
+        "id": "2",
+        "brand": "Kool",
+        "price": "450 $",
+        "image": "https://www.shopz.com.bd/wp-content/uploads/2020/11/Kool-Deodorant-Body-Spray-Saint-CBNA.jpeg"
+    },
+    {
+        "id": "3",
+        "brand": "Set Wet",
+        "price": "350 $",
+        "image": "https://static.cilory.com/472-large_default/set-wet-zatak-macho-200ml.jpg"
+    },
+    {
+        "id": "4",
+        "brand": "AXE",
+        "price": "750 $",
+        "image": "https://www.dfbazar.com/public/uploads/products/meta/j4jQxfiNhS7UqT1nuu2HMD8UNNxcQrJ5q8Zm40wC.jpeg"
+    },
+    {
+        "id": "5",
+        "brand": "Nivea Men",
+        "price": "300 $",
+        "image": "https://shop.shajgoj.com/wp-content/uploads/2021/03/14586-Nivea-2.jpg"
+    },
+    {
+        "id": "6",
+        "brand": "Wild Stone",
+        "price": "650 $",
+        "image": "https://www.jiomart.com/images/product/600x600/491179964/wild-stone-bronze-perfume-for-men-120-ml-product-images-o491179964-p491179964-0-202203240832.jpg"
+    },
+    {
+        "id": "7",
+        "brand": "FOGG",
+        "price": "850 $",
+        "image": "https://www.jiomart.com/images/product/600x600/590827175/fogg-fresh-aromatic-fragrance-body-spray-for-men-120-ml-0-20211019.jpg"
+    },
+    {
+        "id": "8",
+        "brand": "HE",
+        "price": "750 $",
+        "image": "https://www.jiomart.com/images/product/600x600/491231526/he-respect-perfumed-body-spray-for-men-150-ml-product-images-o491231526-p491231526-0-202203240833.jpg"
+    },
+    {
+        "id": "9",
+        "brand": "Dove Men Care",
+        "price": "750 $",
+        "image": "https://www.bigw.com.au/medias/sys_master/images/images/h04/hc8/28180644167710.jpg"
+    }
+]
