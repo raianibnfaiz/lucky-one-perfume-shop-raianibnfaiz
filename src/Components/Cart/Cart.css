@@ -1,0 +1,10 @@
+.reset-btn {
+    background: linear-gradient(rgb(238, 110, 13), rgb(134, 24, 5));
+    color: white;
+    border-radius: 3px;
+}
+
+.choose-btn {
+    color: rgb(255, 85, 0);
+    background-color: antiquewhite;
+}

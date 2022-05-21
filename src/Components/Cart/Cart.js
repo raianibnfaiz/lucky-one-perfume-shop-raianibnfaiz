@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import SelectedProduct from '../SelectedProduct/SelectedProduct';
 import Modal from 'react-bootstrap/Modal';
+import './Cart.css';
 
 const Cart = (props) => {
     const { cart } = props;
@@ -42,8 +43,8 @@ const Cart = (props) => {
                     <div className="container">
                         <h4>Selected Perfume</h4>
                         {pickedPerfume.map(item => <SelectedProduct key={item.id} item={item}></SelectedProduct>)}
-                        <button onClick={deleteCart}>Clear All</button>
-                        <button onClick={handleRandomSelection}>Choose 1 Item</button>
+                        <button className="me-1 reset-btn" onClick={deleteCart}>Reset</button>
+                        <button className="choose-btn" onClick={handleRandomSelection}>Choose 1 Item</button>
                         <Modal.Dialog>
                             <Modal.Header>
                                 <Modal.Title>{randomItem}</Modal.Title>
