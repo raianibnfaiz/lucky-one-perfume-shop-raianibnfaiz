@@ -43,14 +43,14 @@ const Cart = (props) => {
                         <h4>Selected Perfume</h4>
                         {pickedPerfume.map(item => <SelectedProduct key={item.id} item={item}></SelectedProduct>)}
                         <button onClick={deleteCart}>Clear All</button>
-                        <button onClick={handleRandomSelection}>Select Random</button>
+                        <button onClick={handleRandomSelection}>Choose 1 Item</button>
                         <Modal.Dialog>
                             <Modal.Header>
                                 <Modal.Title>{randomItem}</Modal.Title>
                             </Modal.Header>
 
                             <Modal.Body>
-                                <p>Randomly Selected Item Will Appear Here.</p>
+                                <h5> <span style={{ color: "orange" }}>Randomly Selected Item</span> Will Appear Here.</h5>
                             </Modal.Body>
 
 

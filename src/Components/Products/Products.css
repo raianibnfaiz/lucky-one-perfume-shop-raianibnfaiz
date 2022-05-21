@@ -1,0 +1,21 @@
+.btn-cart {
+    width: 100%;
+    background: #FFE043;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0px 0px 8px 8px;
+}
+
+.btn-text {
+    margin-right: 1px;
+    margin-bottom: 3px;
+}
+
+.btn-cart:hover {
+    background-color: orange;
+}
+
+.card-perfume-body {
+    padding: 40px;
+}
